@@ -1,0 +1,15 @@
+﻿{
+  "Words": {
+    "English": true,
+    "Russian": true,
+    "Delay": 20000,
+    "Start": "2018-06-09",
+    "End": null
+  },
+  "CsvProvider": {
+    "SearchPattern": "words.csv",
+    "Root": "C:\\!FWD",
+    "Recursive": true,
+    "Delimeters": ",:;"
+  }
+}
